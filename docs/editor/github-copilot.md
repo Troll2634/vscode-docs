@@ -1,4 +1,4 @@
----
+#---
 Order: 7
 Area: editor
 TOCTitle: GitHub Copilot
